@@ -1,0 +1,8 @@
+f.write("00" + h_f)
+        f.write("\n")
+        f.write("01" + h_f)
+        f.write("\n")
+        f.write("10" + h_f)
+        f.write("\n")
+        f.write("11" + h_f)
+        f.write("\n")

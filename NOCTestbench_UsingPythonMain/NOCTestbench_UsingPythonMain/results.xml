@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1714475699" />
+    <testcase name="test" classname="testbenchUvm" file="/home/sai/.local/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="46" time="11.994959354400635" sim_time_ns="26255000.001" ratio_time="2188836.095669447" />
+  </testsuite>
+</testsuites>

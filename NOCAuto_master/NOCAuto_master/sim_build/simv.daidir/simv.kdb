@@ -1,0 +1,21 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/soumya2/Desktop/sai_2023H1400114H/NOC-Auto/sim_build
+VCS_HOME=/eeesoft/synopsys/vcs/V-2023.12-1
+VERDI_HOME=/eeesoft/synopsys/verdi/U-2023.03-SP2-6
+SystemC=FALSE
+UUM=FALSE
+KDB=FALSE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+TOP=Auto_Mesh 
+OPTION=-ssz -ssv -ssy 
+ELAB_OPTION=-ssz -ssv -ssy 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a
+
+[CompInfo]
+FLOW_OPTS=-ssz -ssv -ssy 

@@ -1,0 +1,13 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
++NoArgsToLog
+-COVERAGE
+all
+-COVOVERWRITE
+-LICQUEUE
+-64bit
+-XMLIBDIRPATH
+sim_build
+-UPDATE

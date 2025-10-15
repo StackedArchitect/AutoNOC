@@ -1,0 +1,30 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
++access+rwc
++incdir+/home/soumya2/Desktop/NOC-Auto/RTL
+-amsdlibdir
+sim_build/xcelium.d/AMSD
+-COVOVERWRITE
+-INPUT
+signal.tcl
+-LICQUEUE
+-PLINOWARN
+-MESSAGES
++EMGRLOG
+xrun.log
+-XLSTIME
+1730188321
+-XLKEEP
+-XLMODE
+sim_build/xcelium.d/run.lnx8664.22.03.d
+-RUNMODE
+-CDSLIB
+sim_build/xcelium.d/run.lnx8664.22.03.d/cds.lib
+-HDLVAR
+sim_build/xcelium.d/run.lnx8664.22.03.d/hdl.var
+-XLNAME
+xrun
+-XLVERSION
+"TOOL:	xrun(64)	22.03-s012"
